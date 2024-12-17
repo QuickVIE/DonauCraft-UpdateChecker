@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+  "schemaDescription": "Grundstruktur für Versionen und Download-Links.",
   "hotfixesFormat": null,
   "versions": [
     {
@@ -24,4 +25,11 @@
       "promotions": {
         "downloads": {
           "curseforge": {
+            "url": "https://curseforge.com/version-1.1.1",
+            "description": "Ältere Version 1.1.1"
+          }
+        }
+      }
+    }
   ]
+}
