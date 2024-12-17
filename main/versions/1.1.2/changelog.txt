@@ -1,0 +1,13 @@
+Changelog 1.1.2
+
+**Removed**
+- Capes (reason unused)
+- Storage System (reason unused)
+- More Doors (reason unused and not compatible with ressourcepack)
+
+**Added**
+- Golden Hopper for easily item sorting
+- Splinecart, better Minecart System
+- Customized Game Menu
+- InGame Modpack Version and Update Checker
+- 64x Resourcepack for Doors 
