@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 9,
   "schemaDescription": "Grundstruktur für Versionen und Download-Links.",
   "hotfixesFormat": null,
   "versions": [
