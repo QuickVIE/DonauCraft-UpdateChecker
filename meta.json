@@ -3,11 +3,6 @@
   "requiresMpuc": 14,
   "hotfixesFormat": null,
   "versions": [
-
-    {
-      "id": "1.0.6",
-      "releasedAt": 1732575600000
-    },
     {
       "id": "1.1.0",
       "releasedAt": 1733007600000
