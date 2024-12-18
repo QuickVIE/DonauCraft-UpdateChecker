@@ -7,7 +7,6 @@ Changelog 1.1.2
 
 **Added**
 - Golden Hopper for easily item sorting
-- Splinecart, better Minecart System
 - Customized Game Menu
 - InGame Modpack Version and Update Checker
 - 64x Resourcepack for Doors 
