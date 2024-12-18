@@ -1,35 +1,7 @@
 {
-  "schemaVersion": 9,
-  "schemaDescription": "Grundstruktur für Versionen und Download-Links.",
+  "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-    {
-      "id": "1.1.2",
-      "releasedAt": "2024-12-17T00:02:25Z",
-      "promotions": {
-        "downloads": {
-          "curseforge": {
-            "url": "https://curseforge.com/",
-            "description": "Hauptseite für den Mod-Download"
-          },
-          "modrinth": {
-            "url": "https://modrinth.com/",
-            "description": "Alternative Plattform für Mod-Downloads"
-          }
-        }
-      }
-    },
-    {
-      "id": "1.1.1",
-      "releasedAt": "2024-12-03T00:00:00Z",
-      "promotions": {
-        "downloads": {
-          "curseforge": {
-            "url": "https://curseforge.com/version-1.1.1",
-            "description": "Ältere Version 1.1.1"
-          }
-        }
-      }
-    }
+ 
   ]
 }
