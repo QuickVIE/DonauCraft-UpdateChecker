@@ -1,0 +1,12 @@
+Entfernt
+- Capes (ungenutzt)
+- Storage System (ungenutzt)
+- More Doors (ungenutzt)
+
+Hinzugefügt
+- Golden Hopper für einfache Item Sortierung
+- Angepasstes Game Menü (Beta)
+- 64x Ressourcenpack ins Modpack integriert
+- 64x Ressourcenpack für Türen hinzugefügt
+- Updatechecker für Modpack ins Hauptmenü integriert
+- Patrix Ressourcenpack Support integriert
