@@ -14,6 +14,11 @@
     {
       "id": "1.1.2",
       "releasedAt": 1734543120000
+      "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/donaucraft-1-21/files/6002567"
+            }
+        }
     }
   ]
 }
